@@ -19,7 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
@@ -27,8 +27,8 @@
 ## Meu repositório:
 <div>
 <a href="https://github.com/rafisgarrido">
-<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisgarridoi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="90em" src="https://github-readme-stats.vercel.app/api?rafisgarrido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafisgarrido&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?rafisgarrido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
  ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
