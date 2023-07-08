@@ -3,9 +3,9 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando na área comercial
-- 🌱 Atualmente estou aprendendo JavaScript, AWS e HTML
+- 🌱 Atualmente estou aprendendo JavaScript, AWS, HTML e CSS
 - 👯 Estou procurando colaborar em desenvolvimento.
-- 🤔 Estou procurando ajuda com a transferência de carreira
+- 🤔 Estou procurando ajuda com a transferência de carreira.
 - 📫 Como entrar em contato comigo: 
  <div>
 <a href="https://instagram.com/rafisgarrido" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
