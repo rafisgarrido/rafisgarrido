@@ -2,7 +2,7 @@
 # Olá, me chamo Rafaela Garrido ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- Possuo 5 anos de eperiencia na área comercial
+- Possuo 5 anos de experiencia na área comercial
 - 🌱 Atualmente estou aprendendo JavaScript, AWS, HTML/CSS, Java
 - 👯 Estou procurando colaborar em desenvolvimento.
 - 🤔 Estou procurando ajuda com a transferência de carreira.
