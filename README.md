@@ -2,10 +2,7 @@
 # Olá, me chamo Rafaela Garrido ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- Possuo 5 anos de experiencia na área comercial
-- 🌱 Atualmente estou aprendendo JavaScript, AWS, HTML/CSS, Java
-- 👯 Estou procurando colaborar em desenvolvimento.
-- 🤔 Estou procurando ajuda com a transferência de carreira.
+
 - 📫 Como entrar em contato comigo: 
  <div>
 <a href="https://instagram.com/rafisgarrido" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
